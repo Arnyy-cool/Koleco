@@ -1,15 +1,15 @@
 {
-  "title": "<Конкурсы Черта>",
-  "description": "<Чёрт и предметы развлекаются. Вроде бы.>",
-  "artist": "<Arnyy>",
-  "author": "<Arnyy>",
-  "cover": "<https://imgur.com/YLXRNDe>",
+  "title": "Конкурсы Черта",
+  "description": "Чёрт и предметы развлекаются. Вроде бы.",
+  "artist": "Arnyy",
+  "author": "Arnyy",
+  "cover": "https://imgur.com/YLXRNDe",
   "chapters": {
-    "<first>": {
-      "title": "<Первый конкурс начинается>",
-      "volume": "<1>",
+    "1": {
+      "title": "Первый конкурс начинается",
+      "volume": "",
       "groups": {
-        "<first>": "/proxy/api/imgur/chapter/<PRDd2KZ>/"
+        "": "/proxy/api/imgur/chapter/PRDd2KZ/"
       },
       "last_updated": "1616368746"
     }
