@@ -5,11 +5,11 @@
   "author": "<Arnyy>",
   "cover": "<https://imgur.com/YLXRNDe>",
   "chapters": {
-    "<1>": {
+    "<first>": {
       "title": "<Первый конкурс начинается>",
       "volume": "<1>",
       "groups": {
-        "<1st>": "/proxy/api/imgur/chapter/<PRDd2KZ>/"
+        "<first>": "/proxy/api/imgur/chapter/<PRDd2KZ>/"
       },
       "last_updated": "1616368746"
     }
